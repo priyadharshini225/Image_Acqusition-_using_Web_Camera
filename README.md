@@ -121,7 +121,7 @@ cv2.destroyAllWindows()
 
 </br>
 
-
+![Screenshot 2025-04-23 073442](https://github.com/user-attachments/assets/c193e58d-da6c-454a-9730-213252881b74)
 
 </br>
 
@@ -129,7 +129,7 @@ cv2.destroyAllWindows()
 ### ii) Display the video
 
 </br>
-
+![Screenshot 2025-04-23 073442](https://github.com/user-attachments/assets/75ee6c69-d24f-43b4-ae54-7da89973117c)
 
 </br>
 
@@ -138,6 +138,7 @@ cv2.destroyAllWindows()
 
 </br>
 
+![Screenshot 2025-04-23 073529](https://github.com/user-attachments/assets/370a3af1-b12a-4522-8c48-c880d3269986)
 
 
 </br>
@@ -148,13 +149,10 @@ cv2.destroyAllWindows()
 
 </br>
 
+![Screenshot 2025-04-23 073553](https://github.com/user-attachments/assets/b3a992f5-d8b9-4a8d-9fdc-65ad4e98b300)
 
 
 </br>
-
-
-
-
 
 ## Result:
 Thus the image is accessed from webcamera and displayed using openCV.
